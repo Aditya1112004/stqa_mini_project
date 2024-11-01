@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/stqa_mini_project/static/css/main.c282a9d6.css",
+    "main.js": "/stqa_mini_project/static/js/main.b2a35ff0.js",
+    "static/media/profile-2.png": "/stqa_mini_project/static/media/profile-2.4752a9db34458eeffcfa.png",
+    "static/media/doctor-picture.png": "/stqa_mini_project/static/media/doctor-picture.0261bb4efe7a9075c56a.png",
+    "static/media/profile-1.png": "/stqa_mini_project/static/media/profile-1.0261bb4efe7a9075c56a.png",
+    "static/media/doctor-group.png": "/stqa_mini_project/static/media/doctor-group.01394386d8270bd40bc1.png",
+    "static/media/profile-3.png": "/stqa_mini_project/static/media/profile-3.530bb2fd7ece3dd3b3be.png",
+    "static/media/doctor-book-appointment.png": "/stqa_mini_project/static/media/doctor-book-appointment.edb3f4ac282ff3fefaec.png",
+    "static/media/profile-4.png": "/stqa_mini_project/static/media/profile-4.3c44185ab9c84614038f.png",
+    "static/media/contri1.jpg": "/stqa_mini_project/static/media/contri1.db87a17f6570b2577eea.jpg",
+    "index.html": "/stqa_mini_project/index.html",
+    "main.c282a9d6.css.map": "/stqa_mini_project/static/css/main.c282a9d6.css.map",
+    "main.b2a35ff0.js.map": "/stqa_mini_project/static/js/main.b2a35ff0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c282a9d6.css",
+    "static/js/main.b2a35ff0.js"
+  ]
+}
